@@ -9,6 +9,8 @@ def derivate(f,a,h):
     
 print(derivate(func,2,0.00001))
 
+def integrate(f,a,b,dx):
+    
 #plt.plot(x,y)
 #plt.grid()
 #plt.show()
